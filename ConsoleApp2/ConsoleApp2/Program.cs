@@ -14,7 +14,7 @@ namespace ConsoleApp2
             Console.WriteLine("444");
             Console.WriteLine("555");
             Console.WriteLine("666");
-            Console.WriteLine("777"); //debbie加入
+            Console.WriteLine("777"); //debbie加入你好
         }
     }
 }
