@@ -18,7 +18,7 @@ namespace ConsoleApp2 //哈囉哈~
             int a= 1;
             while (1 < 5)
                 {
-                Console.Witeline("*");
+                Console.Write("*");
                 }
         }
     }
