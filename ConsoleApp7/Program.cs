@@ -17,6 +17,8 @@ namespace ConsoleApp7
             k = 0.5;
             double g;
             g=k;
+            double h;
+            h=0.05; //加入2行
            
         }
     }
