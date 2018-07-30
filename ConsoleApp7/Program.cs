@@ -13,12 +13,12 @@ namespace ConsoleApp7
 
             int j=10;
             double k;
-            k = j;
+            k = j; 
             k = 0.5;
             double g;
-            g=k;
+            g=k; // 這樣g就變0.5啦~
             double h;
-            h=0.05; //加入2行
+            h=0.05; //加入2行   //加入2行什麼? 請說明!
            
         }
     }
