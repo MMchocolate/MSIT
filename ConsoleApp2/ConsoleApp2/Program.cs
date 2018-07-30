@@ -16,7 +16,7 @@ namespace ConsoleApp2 //哈囉哈~
             Console.WriteLine("666");
             Console.WriteLine("777"); //debbie加入你好
             int a= 1;
-            while (1 < 5)
+            while (a++ < 5)
                 {
                 Console.Write("*");
                 }
