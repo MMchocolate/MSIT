@@ -1,0 +1,6 @@
+C:\Users\III\Documents\Visual Studio 2017\Projects\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\III\Documents\Visual Studio 2017\Projects\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+C:\Users\III\Documents\Visual Studio 2017\Projects\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+C:\Users\III\Documents\Visual Studio 2017\Projects\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+C:\Users\III\Documents\Visual Studio 2017\Projects\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+C:\Users\III\Documents\Visual Studio 2017\Projects\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.pdb
